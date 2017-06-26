@@ -1,0 +1,2 @@
+# DB3
+A database of protein-protein complexes consisting of 1879 co-crystallized interacting native structures (each containing two chains) with resolution better than 2 Å, and no missing backbone atoms; The database was assembled using the ‘Build Database' option from Dockground [1] and used before in [2,3]. Hydrogen atoms were geometrically fixed to all structures using REDUCE [4], version. 2 [5].
